@@ -4,6 +4,10 @@
 #### Content Comprehension and User Behavior
 - Analysis of Short Video Users’ Activity Level Based on RNN Model
 
+dataset: 通过网盘分享的文件：Analysis of Short Video Users’ Activity Level Based on RNN Model
+链接: https://pan.baidu.com/s/1UT6dIcysLcG2wtZbQy6fyQ 提取码: 213e 
+--来自百度网盘超级会员v8的分享
+
 ### LLM
 - Kaggle - LLM Science Exam
 ### NLP
