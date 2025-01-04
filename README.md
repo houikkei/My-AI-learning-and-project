@@ -6,6 +6,7 @@
 
 - Smart City and Industrial Applications
   - Industrial Production Prediction
+  - Smart City Road Travel Time Prediction
 
 ### LLM
 - Kaggle - LLM Science Exam
