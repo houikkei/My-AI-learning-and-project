@@ -7,6 +7,8 @@
 - Smart City and Industrial Applications
   - Industrial Production Prediction Based on XGB Model
   - Smart City Road Travel Time Prediction Based on xgboost Model
+- Finance and Risk Control
+  - Home Credit Default Risk
 
 ### LLM
 - Kaggle - LLM Science Exam
