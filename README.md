@@ -5,8 +5,8 @@
   - Analysis of Short Video Users’ Activity Level Based on RNN Model
 
 - Smart City and Industrial Applications
-  - Industrial Production Prediction
-  - Smart City Road Travel Time Prediction
+  - Industrial Production Prediction Based on XGB Model
+  - Smart City Road Travel Time Prediction Based on xgboost Model
 
 ### LLM
 - Kaggle - LLM Science Exam
