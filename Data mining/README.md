@@ -15,3 +15,6 @@
   - Home Credit Default Risk
 
 - Medical Health and Bio - information
+  - heart_disease_risk_factors.ipynb
+- Feature Selection Case
+  - Partial Dependence Plots
