@@ -10,7 +10,7 @@
 - Finance and Risk Control
   - Home Credit Default Risk
 - Medical Health and Bio - information
-  - heart_disease_risk_factors.ipynb
+  - heart_disease_risk_factors
 - Feature Selection Case
   - Partial Dependence Plots
 
