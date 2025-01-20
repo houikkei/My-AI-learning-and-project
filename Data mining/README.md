@@ -11,10 +11,10 @@
   - 链接: https://pan.baidu.com/s/1yEdgsFAP_NWAG0otykLYOw 提取码: cmvw 
 --来自百度网盘超级会员v8的分享
 
-- Finance and Risk Control
+#### Finance and Risk Control
   - Home Credit Default Risk
 
-- Medical Health and Bio - information
+#### Medical Health and Bio - information
   - heart_disease_risk_factors.ipynb
-- Feature Selection Case
+#### Feature Selection Case
   - Partial Dependence Plots
