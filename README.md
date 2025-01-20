@@ -13,6 +13,11 @@
   - heart_disease_risk_factors
 - Feature Selection Case
   - Partial Dependence Plots
+- Common Construction Methods for Data Features.
+  - Numerical Features
+  - Feature Preprocessing
+  - Image Features
+  - Text Features
 
 ### LLM
 - Kaggle - LLM Science Exam
