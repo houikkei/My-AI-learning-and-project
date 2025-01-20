@@ -18,3 +18,9 @@
   - heart_disease_risk_factors.ipynb
 #### Feature Selection Case
   - Partial Dependence Plots
+
+#### Common Construction Methods for Data Features.
+  - Numerical Features
+  - Feature Preprocessing
+  - Image Features
+  - Text Features
