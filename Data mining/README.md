@@ -4,6 +4,7 @@
 #### Content Comprehension and User Behavior
 - Analysis of Short Video Users’ Activity Level Based on RNN Model
 - News Keyword Extraction Model Based on textrank and Doc2vec
+- User Sensitivity Classification Based on XGBoost Model
 
 #### Smart City and Industrial Applications
 - Industrial Production Prediction Based on XGB Model
