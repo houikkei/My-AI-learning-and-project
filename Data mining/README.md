@@ -15,6 +15,7 @@
 
 #### Finance and Risk Control
   - Home Credit Default Risk
+  - Financial Risk Control Model for Loan Platforms
 
 #### Medical Health and Bio - information
   - heart_disease_risk_factors.ipynb
