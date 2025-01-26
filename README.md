@@ -32,4 +32,5 @@
 - relationship_Neo4j
 
 ### Computer Vision
+- OpenCV learning and project
 ### Recommender system
