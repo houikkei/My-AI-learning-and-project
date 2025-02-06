@@ -63,4 +63,51 @@
 # Image Segmentation
 
 ## Thresholding
-- Use `cv2.threshold()` for
+- Use `cv2.threshold()` for threshold-based segmentation.
+
+## Contour Detection
+- Use `cv2.findContours()` to detect contours in an image.
+
+## Watershed Algorithm
+- Use `cv2.watershed()` for image segmentation.
+
+# Machine Learning and Deep Learning
+
+## K-Means Clustering
+- Use `cv2.kmeans()` for image clustering.
+
+## SVM
+- Use `cv2.ml.SVM_create()` for Support Vector Machine classification.
+
+## Deep Learning Models
+- Use OpenCV’s DNN module to load and run deep learning models.
+
+# Video Processing
+
+## Video Reading and Display
+- Use `cv2.VideoCapture()` to read a video and `cv2.VideoWriter()` to save it.
+
+## Frame Processing
+- Process video frames for tasks like object detection and tracking.
+
+# Camera Calibration and 3D Reconstruction
+
+## Camera Calibration
+- Use `cv2.calibrateCamera()` for camera calibration.
+
+## Stereo Vision
+- Use `cv2.StereoBM_create()` for stereo matching.
+
+## 3D Reconstruction
+- Use `cv2.reprojectImageTo3D()` for 3D reconstruction.
+
+# Utility Tools
+
+## Drawing Functions
+- Use `cv2.line()`, `cv2.rectangle()`, `cv2.circle()`, etc., to draw shapes on images.
+
+## Mouse Events
+- Use `cv2.setMouseCallback()` to handle mouse events.
+
+## Image Pyramids
+- Use `cv2.pyrUp()` and `cv2.pyrDown()` for image pyramid operations.
