@@ -1,71 +1,66 @@
-##### 1. Basics of Image Processing
-- Image Reading and Display: Use cv2.imread() to read an image and cv2.imshow() to display it.
+# Basics of Image Processing
 
-- Image Saving: Use cv2.imwrite() to save an image.
+## Image Reading and Display
+- Use `cv2.imread()` to read an image.
+- Use `cv2.imshow()` to display an image.
 
-- Image Attributes: Retrieve image properties such as dimensions and number of channels.
+## Image Saving
+- Use `cv2.imwrite()` to save an image.
 
-- Pixel Manipulation: Access and modify pixel values of an image.
+## Image Attributes
+- Retrieve image properties such as dimensions and number of channels.
 
-##### 2. Image Preprocessing
-- Grayscale Conversion: Use cv2.cvtColor() to convert an image to grayscale.
+## Pixel Manipulation
+- Access and modify pixel values of an image.
 
-- Image Resizing: Use cv2.resize() to adjust the size of an image.
+# Image Preprocessing
 
-- Image Rotation: Use cv2.getRotationMatrix2D() and cv2.warpAffine() to rotate an image.
+## Grayscale Conversion
+- Use `cv2.cvtColor()` to convert an image to grayscale.
 
-- Image Smoothing: Use cv2.GaussianBlur(), cv2.medianBlur(), etc., for image smoothing.
+## Image Resizing
+- Use `cv2.resize()` to adjust the size of an image.
 
-- Edge Detection: Use cv2.Canny() for edge detection.
+## Image Rotation
+- Use `cv2.getRotationMatrix2D()` and `cv2.warpAffine()` to rotate an image.
 
-##### 3. Image Transformations
-- Affine Transformation: Use cv2.getAffineTransform() and cv2.warpAffine() for affine transformations.
+## Image Smoothing
+- Use `cv2.GaussianBlur()`, `cv2.medianBlur()`, etc., for image smoothing.
 
-- Perspective Transformation: Use cv2.getPerspectiveTransform() and cv2.warpPerspective() for perspective transformations.
+## Edge Detection
+- Use `cv2.Canny()` for edge detection.
 
-##### 4. Feature Detection and Description
-- Corner Detection: Use cv2.cornerHarris() and cv2.goodFeaturesToTrack() to detect corners.
+# Image Transformations
 
-- SIFT/SURF: Use cv2.xfeatures2d.SIFT_create() and cv2.xfeatures2d.SURF_create() for feature detection and description.
+## Affine Transformation
+- Use `cv2.getAffineTransform()` and `cv2.warpAffine()` for affine transformations.
 
-- ORB: Use cv2.ORB_create() for feature detection and description.
+## Perspective Transformation
+- Use `cv2.getPerspectiveTransform()` and `cv2.warpPerspective()` for perspective transformations.
 
-##### 5. Object Detection and Tracking
-- Template Matching: Use cv2.matchTemplate() for template matching.
+# Feature Detection and Description
 
-- Haar Cascade Classifier: Use cv2.CascadeClassifier() for tasks like face detection.
+## Corner Detection
+- Use `cv2.cornerHarris()` and `cv2.goodFeaturesToTrack()` to detect corners.
 
-- Optical Flow: Use cv2.calcOpticalFlowPyrLK() for optical flow tracking.
+## SIFT/SURF
+- Use `cv2.xfeatures2d.SIFT_create()` and `cv2.xfeatures2d.SURF_create()` for feature detection and description.
 
-##### 6. Image Segmentation
-- Thresholding: Use cv2.threshold() for threshold-based segmentation.
+## ORB
+- Use `cv2.ORB_create()` for feature detection and description.
 
-- Contour Detection: Use cv2.findContours() to detect contours in an image.
+# Object Detection and Tracking
 
-- Watershed Algorithm: Use cv2.watershed() for image segmentation.
+## Template Matching
+- Use `cv2.matchTemplate()` for template matching.
 
-##### 7. Machine Learning and Deep Learning
-- K-Means Clustering: Use cv2.kmeans() for image clustering.
+## Haar Cascade Classifier
+- Use `cv2.CascadeClassifier()` for tasks like face detection.
 
-- SVM: Use cv2.ml.SVM_create() for Support Vector Machine classification.
+## Optical Flow
+- Use `cv2.calcOpticalFlowPyrLK()` for optical flow tracking.
 
-- Deep Learning Models: Use OpenCV’s DNN module to load and run deep learning models.
+# Image Segmentation
 
-##### 8. Video Processing
-- Video Reading and Display: Use cv2.VideoCapture() to read a video and cv2.VideoWriter() to save it.
-
-- Frame Processing: Process video frames for tasks like object detection and tracking.
-
-##### 9. Camera Calibration and 3D Reconstruction
-- Camera Calibration: Use cv2.calibrateCamera() for camera calibration.
-
-- Stereo Vision: Use cv2.StereoBM_create() for stereo matching.
-
-- 3D Reconstruction: Use cv2.reprojectImageTo3D() for 3D reconstruction.
-
-##### 10. Utility Tools
-- Drawing Functions: Use cv2.line(), cv2.rectangle(), cv2.circle(), etc., to draw shapes on images.
-
-- Mouse Events: Use cv2.setMouseCallback() to handle mouse events.
-
-- Image Pyramids: Use cv2.pyrUp() and cv2.pyrDown() for image pyramid operations.
+## Thresholding
+- Use `cv2.threshold()` for
