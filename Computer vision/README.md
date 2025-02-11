@@ -5,7 +5,7 @@
 ##### Chapter 2: Project Practice - Document Scanning OCR Recognition
 - python scan.py -i images/receipt.jpg
 
-######## test.py
+- test.py
 - pip install pytesseract
 - brew install tesseract
 
