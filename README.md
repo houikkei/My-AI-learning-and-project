@@ -33,4 +33,12 @@
 
 ### Computer Vision
 - OpenCV learning and project
+ - Chapter 1: Project Practice - Credit Card Digit Recognition
+ - Chapter 2: Project Practice - Document Scanning OCR Recognition
+ - Chapter 3: Project Practice - Panoramic Image Stitching
+ - Chapter 4: Project Practice - Parking Space Detection in Parking Lots
+ - Chapter 5: Project Practice - Answer - sheet Recognition and Marking
+ - Chapter 6: Project Practice - Target Tracking
+ - Chapter 7: Project Practice - Facial Key point Detection
+ - Chapter 8: Project Practice - Fatigue Detection
 ### Recommender system
