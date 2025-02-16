@@ -1,4 +1,4 @@
-# My-AI-Learning
+# My-AI-Learning-project
 
 ### Data Mining
 - Content Comprehension and User Behavior
