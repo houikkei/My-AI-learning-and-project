@@ -1,4 +1,4 @@
-# My-LLM-Learning
+# My-AI-Learning
 
 ### Data Mining
 - Content Comprehension and User Behavior
