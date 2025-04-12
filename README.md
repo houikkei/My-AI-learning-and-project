@@ -24,6 +24,7 @@
 
 ### LLM
 - Kaggle - LLM Science Exam
+- Base on langchain -MBTI Consulting Assistant_JP
 ### NLP
 - Text-Segmentation-WordCloud
 - Netease_Music_Comment_Spider
