@@ -25,12 +25,6 @@
 ### LLM
 - Kaggle - LLM Science Exam
 - Base on langchain -MBTI Consulting Assistant_JP
-### NLP
-- Text-Segmentation-WordCloud
-- Netease_Music_Comment_Spider
-- Sina_News_Comment__Data_Science_Projects
-- InteractiveGraph_HongLouMeng
-- relationship_Neo4j
 
 ### Computer Vision
 - OpenCV learning and project
