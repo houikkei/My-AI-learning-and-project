@@ -36,4 +36,3 @@
  - Chapter 6: Project Practice - Target Tracking
  - Chapter 7: Project Practice - Facial Key point Detection
  - Chapter 8: Project Practice - Fatigue Detection
-### Recommender system
